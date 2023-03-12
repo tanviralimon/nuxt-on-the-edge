@@ -73,7 +73,7 @@ const generatedAt = useState(() => new Date().toISOString())
       </p>
       <NuxtLink
         target="_blank"
-        href="https://github.com/pi0/nuxt-on-the-edge"
+        href="https://orcustech.com"
         class="source"
       >
         <LogoGithub />
