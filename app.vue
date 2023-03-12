@@ -76,8 +76,8 @@ const generatedAt = useState(() => new Date().toISOString())
         href="https://orcustech.com"
         class="source"
       >
-        <LogoGithub />
-        Source
+        
+        Orcus Technology
       </NuxtLink>
     </footer>
   </div>
